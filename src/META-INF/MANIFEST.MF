@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Class-Path: kms-siwei-1.0.jar KMIP4J-2.12.1-Release-jar-with-dependenc
+ ies.jar simplera-v3.2.2.jar whiteboxsdk-1.6.0.jar packtools-1.1.0.jar
+  spring-core-5.1.5.RELEASE.jar commons-lang3-3.8.1.jar sqlite-jdbc-3.
+ 27.2.1.jar sansecKey4V4.jar swxajce-v4.2.12.jar crypto-v5.jar
+Main-Class: testSecKMSForJILI
+

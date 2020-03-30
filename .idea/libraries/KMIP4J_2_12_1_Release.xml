@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="KMIP4J-2.12.1-Release">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SecKMS-rest/kms/src/localLib/KMIP4J-2.12.1-Release.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SecKMS-rest/kms/src/localLib/packtools-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SecKMS-rest/kms/src/localLib/simplera-v3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SecKMS-rest/kms/src/localLib/whiteboxsdk-1.5.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
